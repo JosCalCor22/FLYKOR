@@ -1,0 +1,544 @@
+body
+{
+    border: 0%;
+    margin: 0%;
+}
+
+header
+{
+    display: inline-flex;
+    background-color: #E74C3C;
+    height: 90px;
+    border: #000 solid 1px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+main
+{
+    margin: 0%;
+    border: 0%;
+}
+
+.Logo
+{
+    display: inline-flex;
+    width: 250px;
+}
+
+.LogoImg
+{
+    margin-left: 10px;
+    margin-right: 0px;
+    margin-top: 4px;
+}
+
+.NombreEmp
+{
+    padding: 0px 0px 0px 10px;
+    margin-top: 0px;
+}
+
+#Nombre
+{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.Busqueda
+{
+    display: inline-flex;
+    width: 716px;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+
+#Buscador
+{
+    font-family: 'Noto Sans', sans-serif;
+    height: 30px;
+    width: 590px;
+    padding-left: 10px;
+    border: #fff solid 1px;
+    border-radius: 10px;
+}
+
+.Botones
+{
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+#Boton
+{
+    background-color: #eb6e60;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    height: 35px;
+    width: 90px;
+    border: #eb6e60 solid 1px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.Registro
+{
+    text-align: end;
+    width: 400px;
+    margin-left: -10px;
+}
+
+.Opciones
+{
+    display: inline-flex;
+    background-color: #eb6e60;
+    width: 320px;
+    padding-left: 20px;
+    padding-top: 15px; 
+    padding-bottom: 10px;
+    border-radius: 0px 0px 10px 10px
+}
+
+#IniciarSesion
+{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    padding-right: 10px;
+}
+
+#Registrarse
+{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    padding-right: 10px;
+}
+
+#Contactenos
+{
+    color: #000;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    padding-right: 10px;
+}
+
+.Menu
+{
+    display: inline-flex;
+    text-align: center;
+    background-color: #eb6e60;
+    width: 1291px;
+    height: 100px;
+    padding-left: 55px;
+    border: #000 solid 1px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.Menu5
+{
+    margin-top: 2px;
+}
+
+#Img
+{
+    cursor: pointer;
+}
+
+#Texto
+{
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+    color: #000;
+    font-weight: bold;
+}
+
+#Texto1
+{
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.Calendario
+{
+    background-color: #fceae8;
+    display: inline-flex;
+    text-align: center;
+    margin-top: 0px;
+    width: 1346px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.Pais
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 25px;
+    padding-bottom: 10px;
+}
+
+#Mapamundi
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    margin-right: 10px;
+    width: 250px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+.Ida
+{
+    display: inline-flex;
+    text-align: left;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+
+#Form1
+{
+    padding-left: 62px;
+}
+
+.Fecha
+{
+    display: inline-flex;
+    margin-left: 0px;
+}
+
+#ida
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 62px;
+    width: 150px;
+    height: 33px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+#vuelta
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 5px;
+    width: 150px;
+    height: 33px;
+    padding-left: 10px;
+    padding-right: 5px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+.Personas
+{
+    display: inline-flex;
+    text-align: left;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 70px;
+    padding-bottom: 10px;
+}
+
+.Niños
+{
+    width: 250px;
+}
+
+#Adultos
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    margin-right: 5px;
+    width: 210px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+#Boys
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    width: 210px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+.Search
+{
+    margin-top: 21px;
+    margin-right: 20px;
+}
+
+#Enviar
+{
+    background-color: #eb6e60;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    height: 35px;
+    width: 90px;
+    border: #000 solid 1px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+div h1
+{
+    background-color: #fceae8;
+    width: 1326px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-top: 0px;
+}
+
+#Tit1
+{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #fceae8;
+    width: 1326px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-top: -20px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.Internacionales
+{
+    width: 1311px;
+    margin-left: 10px;
+}
+
+#Tit
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#Par
+{
+    font-family: 'Noto Sans', sans-serif;
+    padding-left: 10px;
+    margin-top: -3px;
+    font-size: 20px;
+}
+
+#Lista
+{
+    font-weight: lighter;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+h3
+{
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.Europa, .Suramerica, .Asia
+{
+    font-family: 'Noto Sans', sans-serif;
+    display: inline-flex;
+    width: 1311px;
+    margin-bottom: 20px;
+}
+
+.Alemania, .Francia, .Holanda
+{
+    background-color: #fceae8;
+    cursor:pointer;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.Brasil, .Argentina, .Chile
+{
+    background-color: #fceae8;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.Japon, .Corea_Sur, .Rusia
+{
+    background-color: #fceae8;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.Nacinales
+{
+    width: 1311px;
+    margin-left: 10px; 
+}
+
+#Tit2
+{
+    background-color: #eb6e60;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    width: 1338px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    border-top: #000 solid 1px;
+}
+
+#Par2
+{
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #eb6e60;
+    width: 1338px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-left: -10px;
+    margin-top: -20px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.Ciudades1, .Ciudades2
+{
+    font-family: 'Noto Sans', sans-serif;
+    display: inline-flex;
+    width: 1311px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.Bogota, .Barranquilla, .Cartagena
+{
+    background-color: #eb6e60;
+    cursor:pointer;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.Medellin, .Tolima, .Santa_Marta
+{
+    background-color: #eb6e60;
+    cursor:pointer;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+footer
+{
+    background-color: #E74C3C;
+    display: flex;
+    align-content: baseline;
+    border: #000 solid 1px;
+    width: 1346px;
+    border-bottom: 0px;
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 30px;
+}
+
+.Pie_Pagina
+{
+    display: inline-flex;
+}
+
+.Datos, .Promociones, .Red_social, .Protocolos
+{
+    display: block;
+    font-family: 'Noto Sans', sans-serif;
+    margin-right: 40px;
+    margin-left: 20px;
+}
+
+.Datos h3, .Promociones h3, .Red_social h3, .Protocolos h3
+{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: -1px;
+    padding-top: 5px;
+}
+
+.Datos a, .Promociones a, .Protocolos a
+{
+    color: #000;
+    font-weight: lighter;
+    text-decoration: none;
+    margin-top: -20px;
+}
+
+.Facebook a, .Instagram a, .Twitter a
+{
+    color: #000;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+.Facebook img, .Instagram img, .Twitter img
+{
+    display: inline-flex;
+    margin-top: -10px;
+    margin-left: -30px;
+}
+
+#Red
+{
+    display: inline-flex;
+    height: 20px;
+}
+
+.Logo_Final
+{
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: -10px;
+    padding-top: 70px;
+}
+
+.Logo_Final img
+{
+    height: fit-content;
+}
+
+.Logo_Final p
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    padding-top: 0px;
+    margin-top: -1px;
+}
